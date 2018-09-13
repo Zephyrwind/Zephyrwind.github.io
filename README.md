@@ -1,9 +1,9 @@
 ## Who am I?
 Hello, I'm Cláudio!
-I'm a Physics Engineer Masters' student at [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/), Portugal.
+I'm a Engineering Physics Masters' student at [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/), Portugal.
 
 ## Type of Projects
-Most projects found here were developed for college classes. Will try my best to documentate all the work so they can be used and shared by everyone.
+Most projects found here were developed for college purposes. Will try my best to documentate all the work so they can be used and shared by everyone.
 
 ## List of Projects
 - [fcul-phd-latex](https://github.com/Zephyrwind/fcul-phd-latex) : Latex template to write Phd thesis for FCUL.
