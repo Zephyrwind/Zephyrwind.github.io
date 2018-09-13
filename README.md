@@ -8,6 +8,7 @@ Most projects found here were developed for college purposes. Will try my best t
 ## List of Projects
 - [fcul-phd-latex](https://github.com/Zephyrwind/fcul-phd-latex) : Latex template to write Phd thesis for FCUL.
 - [computational-physics](https://github.com/Zephyrwind/computational-physics) : List of codes and reports developed in "Computational Physics" course
+- [dental-clinic](https://github.com/Zephyrwind/dental-clinic) : Java project developed for "Object Oriented Programming" course
 
 ## Contacts
 For any questions hit me up over <a href="mailto:claudio.fdsantos.93@gmail.com">claudio.fdsantos.93@gmail.com</a> 
